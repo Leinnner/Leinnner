@@ -4,6 +4,20 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 </div>
+Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programación estoy aprendiendo muchas tecnologias y lenguajes de programacion, algunos ejemplos son:
+- Node.js
+- JavaScript
+- Python
+- Java
+- Flutter(Dart)
+- C#
+- C++
+- PHP
+- HTML5 (Lenguaje de marcado)
+- CSS3 (Lenguaje de hoja de estilo)
+- MySQL
+- PHP
+- Y espero seguir aprendiendo mucho más este mundo tecnológico! 
 <p><em>Software developer Student
 </em></p>
 
