@@ -24,7 +24,7 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 - PHP
 - Y espero seguir aprendiendo mucho más este mundo tecnológico!
 
-<p><em>Software developer Student
+<p><em>`Software developer Student`
 </em></p>
 
 
