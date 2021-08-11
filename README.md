@@ -7,9 +7,9 @@
 <p>
 	<em>
 Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programación estoy aprendiendo muchas tecnologias y lenguajes de programacion, algunos ejemplos son:
-- Node.js
-- JavaScript
-- Python
+-Node.js
+-JavaScript
+-Python
 - Java
 - Flutter(Dart)
 - C#
