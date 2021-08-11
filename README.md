@@ -24,10 +24,7 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 - PHP
 - Y espero seguir aprendiendo mucho más este mundo tecnológico!
 
-<p><em>`Software developer Student`
-</em></p>
-
-
+*`Software developer Student`*
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/SoyLeiner?style=social)](https://twitter.com/SoyLeiner)
 [![GitHub Thaiane](https://img.shields.io/github/followers/SoyLeiner?label=follow&style=social)](https://github.com/SoyLeiner)
