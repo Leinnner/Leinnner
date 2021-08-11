@@ -7,9 +7,10 @@
 <p>
 	<em>
 Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programación estoy aprendiendo muchas tecnologias y lenguajes de programacion, algunos ejemplos son:
--Node.js
--JavaScript
--Python
+<br>
+- Node.js
+- JavaScript
+- Python
 - Java
 - Flutter(Dart)
 - C#
@@ -20,6 +21,7 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 - MySQL
 - PHP
 - Y espero seguir aprendiendo mucho más este mundo tecnológico! 
+</br>
 	</em>
 	</p>
 <p><em>Software developer Student
