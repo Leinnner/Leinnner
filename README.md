@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Reidex Github Stats](https://github-readme-stats.vercel.app/api?username=SoyLeiner&show_icons=true&hide_border=true)
+![Reidex Github Stats](https://github-readme-stats.vercel.app/api?username=SoyLeiner&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyLeiner&theme=radical)
 
