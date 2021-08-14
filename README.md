@@ -17,7 +17,6 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 - Flutter(Dart)
 - C#
 - C++
-- PHP
 - HTML5 (Lenguaje de marcado)
 - CSS3 (Lenguaje de hoja de estilo)
 - MySQL
