@@ -1,4 +1,4 @@
-- # 👋🏻 Hi, I’m Reidex
+- # 👋🏻 Hi, I’m Leiner
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
@@ -25,8 +25,8 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 
 *`Software developer Student`*
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/SoyLeiner?style=social)](https://twitter.com/SoyLeiner)
-[![GitHub Thaiane](https://img.shields.io/github/followers/SoyLeiner?label=follow&style=social)](https://github.com/SoyLeiner)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Leinnner?style=social)](https://twitter.com/Leinnner)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Leinnner?label=follow&style=social)](https://github.com/Leinnner)
 
 
 **Learning Languages and Tools:**
