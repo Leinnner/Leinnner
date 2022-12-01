@@ -15,12 +15,11 @@ Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programació
 - Python
 - Java
 - Flutter(Dart)
-- C#
+- GO
 - C++
 - HTML5 (Lenguaje de marcado)
 - CSS3 (Lenguaje de hoja de estilo)
 - MySQL
-- PHP
 - Y espero seguir aprendiendo mucho más este mundo tecnológico!
 
 *`Software developer Student`*
