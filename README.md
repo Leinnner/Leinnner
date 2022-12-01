@@ -6,7 +6,7 @@
 </div>
 <p>
 	<em>
-Hola soy Leiner, mi nombre en internet es Reidex. Me gusta mucho la programación estoy aprendiendo muchas tecnologías y lenguajes de programación, algunos ejemplos son: 
+Hola soy Leiner. Me gusta mucho la programación estoy aprendiendo muchas tecnologías y lenguajes de programación, algunos ejemplos son: 
 	</em>
 </p>
 
