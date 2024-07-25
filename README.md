@@ -12,10 +12,7 @@ Hola soy Leiner. Me gusta mucho la programación estoy aprendiendo muchas tecnol
 
 - Node.js
 - JavaScript
-- Python
 - Java
-- Flutter(Dart)
-- GO
 - C++
 - HTML5 (Lenguaje de marcado)
 - CSS3 (Lenguaje de hoja de estilo)
